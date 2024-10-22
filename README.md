@@ -7,7 +7,7 @@ The commands we'll be running are:
 
 ```
 module load cuda nvhpc
-cd nsight_tutorail
+cd nsight_tutorial
 
 cd lab1
 make clean && make 
